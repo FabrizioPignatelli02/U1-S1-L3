@@ -1,0 +1,32 @@
+#header_image{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+body{
+    margin: 0;
+}
+
+main{
+    padding: 10px;
+}
+
+
+main img{
+    width: 300px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.second_list{
+    background-color: lightgray;
+
+}
+
+.second_list li{
+    padding: 6px;
+}
