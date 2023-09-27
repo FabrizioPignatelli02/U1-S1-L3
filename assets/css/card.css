@@ -1,0 +1,45 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@400;700&display=swap');
+
+
+.card{
+    background-color: rgb(211, 211, 211);
+    width: 330px;
+    /* centrare un blocco con margin-inline auto  */
+    margin-inline: auto;
+    margin-top: 2rem;
+    
+}
+
+body{
+    margin: 0;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card h4{
+    margin: 0;
+    
+}
+
+.card_content{
+    padding: 10px;
+    font-family: 'Martian Mono', monospace;
+    font-weight: 400;
+}
+
+.card .button_div button{
+    padding: 6px;
+    border: none;
+    font-size: 1.2rem;
+    background-color: rgb(211, 211, 211);
+    font-family: 'Martian Mono', monospace;
+    box-shadow: 0 4px 6px black;
+    
+}
+
+.button_div{
+    text-align: center;
+}
